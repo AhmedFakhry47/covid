@@ -7,4 +7,4 @@
 Please note this repository has been split into the below:
 
 1. Data: https://github.com/virufy/virufy_data
-2. Code: https://github.com/virufy/virufy_data
+2. Code: https://github.com/virufy/virufy_code
